@@ -2,11 +2,11 @@
 
 It's easy to get to "Hello World"! But what about "Hello *Panda*"? 
 
-In a loosely defined and [hunger-fueled](https://www.google.com/search?q=hello+panda) experiment, I wanted to see how easy it would be to get from a basic "Hello World" function app to a function app that uses the power of shared code to do more (for so much less 😊).
+In a loosely defined and [hunger-fueled](https://www.google.com/search?q=hello+panda) experiment, I wanted to see how easy it would be to get from a basic "Hello World" function app to a function app that uses the collective power of shared code to do more (for so much less 😊).
 
-This project assumes that you've tried "Hello World" (the basic getting started experience) with Azure Functions written in TypeScript and shows you how easy it is to graduate to "Hello Panda".
+If you aren't familiar with Azure Functions, creating and exploring a "Hello World" function app in TypeScript is a great place to get started. From there, this project can help you graduate to "Hello Panda"!
 
-This "Hello Panda" app fetches random images and facts about pandas. The `GetPandaInfo` function is written as a backend API to return an image URL and fact in JSON form. The `HelloPanda` function returns an HTML body to demonstrate an extremely simple web page.
+The code here is for a function app that fetches random images and facts about pandas. The `GetPandaInfo` function is written as a backend API to return an image URL and fact in JSON form. The `HelloPanda` function returns an HTML body to demonstrate an extremely simple web page.
 
 # Getting Started
 ### Prerequisites
