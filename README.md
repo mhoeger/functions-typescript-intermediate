@@ -20,7 +20,7 @@ This "Hello Panda" app fetches random images and facts about pandas. The `GetPan
    - If you are running in VS Code, you can press `F5`.
  - You will see two URL's for each HTTP-triggered function. Click both!
 
-# Concepts Learned
+# Concepts Used
 ### Installing npm modules
 When you create a "Hello World" function app with Azure Functions in TypeScript, it comes with a package.json already. You can simply `npm install` dependencies and `import` them into your function code.
 
