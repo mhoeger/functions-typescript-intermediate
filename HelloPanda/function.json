@@ -1,0 +1,22 @@
+{
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get"
+      ],
+      "route": "/example"
+    },
+    {
+      "authLevel": null,
+      "type": "http",
+      "direction": "out",
+      "name": "$return",
+      "methods": null
+    }
+  ],
+  "scriptFile": "../dist/HelloPanda/index.js"
+}
