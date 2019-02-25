@@ -1,6 +1,6 @@
 # Azure Function ❤️'s TypeScript (Intermediate 🐼)
 
-It's easy to get to "Hello World"! But what about "Hello *Panda*"? 
+[It's easy to get to "Hello World"](https://code.visualstudio.com/tutorials/functions-extension/getting-started)! But what about "Hello *Panda*"? 
 
 In a loosely defined and [hunger-fueled](https://www.google.com/search?q=hello+panda) experiment, I wanted to see how easy it would be to get from a basic "Hello World" function app to a function app that uses the collective power of shared code to do more (for so much less 😊).
 
