@@ -15,11 +15,11 @@ const run: AzureFunction = async function (context: Context, req: HttpRequest): 
         headers: {
             "content-type": "text/html"
         },
-        body: formatContent(url, fact)
+        body: renderBody(url, fact)
     }
 };
 
-function formatContent(url: string, fact: string) {
+function renderBody(url: string, fact: string) {
     return `<center>
                 <img height="80%" src="${url}"/>
                 <h3>${fact}</h3>
