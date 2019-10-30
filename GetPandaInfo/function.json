@@ -8,7 +8,7 @@
       "methods": [
         "get"
       ],
-      "route": "/api/random/panda"
+      "route": "api/random/panda"
     },
     {
       "authLevel": null,
